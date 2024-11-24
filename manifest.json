@@ -5,7 +5,7 @@
 		"name":"Treco App",
 		"version":"1.0.0",
 		"minimum-overwolf-version":"0.77.10",
-		"author":"Developer Name",
+		"author":"Alex RAAG",
 		"icon":"IconMouseOver.png",
 		"icon_gray":"IconMouseNormal.png",
 		"description":"An app made to manage your treco matches"
